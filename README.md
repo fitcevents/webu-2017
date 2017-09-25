@@ -22,3 +22,6 @@ An Introduction to the World of Testing for Front-End Developers - Haris Mahmood
 
 The Accessibility of Keyboard Navigation - George Zamfir
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/accessibility-of-keyboard-navigation) | [Info](http://fitc.ca/presentation/accessibility-keyboard-navigation/)
+
+Neural Networks for the Rest of Us - Rob McDiarmid
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/neural-networks-for-the-rest-of-us) | [Info](http://fitc.ca/presentation/neural-networks-rest-us/)
