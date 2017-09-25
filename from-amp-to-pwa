@@ -77,6 +77,8 @@ both code libraries to build your application and build tools as well.
 
 App determines the skeleton UI shell to use based on the url requested. Keeping them separate keeps the app small and fast.
 
+Ultimately you can use AMP beyond PWA's - it can also be used to deliver content to native Android or iOS.
+
 
 
 
