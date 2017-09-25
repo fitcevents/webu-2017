@@ -47,18 +47,24 @@ Functional Tests - tests that check particular user scenarios work as expected.
 Snapshot Tests - take a snapshot of the app in one state, compare to the initial snapshot and ensure that they are the same.
 
 ##Test frameworks
-[Jasmine](https://jasmine.github.io/) - has everything you could need to do all your testing right out of the box. It's very popular in the Angular world. 
-[Mocha](https://mochajs.org/) - requires plugins to handle assertions, spies, etc. Requires more setup up front, but very modular.
+[Jasmine](https://jasmine.github.io/) - has everything you could need to do all your testing right out of the box. It's very popular in the Angular world.   
+[Karma](https://karma-runner.github.io/1.0/index.html) - test runner  
+[Mocha](https://mochajs.org/) - requires plugins to handle assertions, spies, etc. Requires more setup up front, but very modular.  
 [Jest](https://facebook.github.io/jest/) - built by Facebook as a wrapper around Jasmin, adding a number of features, made it easier to get started and improved 
-it's performance. Jest is often used with React.
+it's performance. Jest is often used with React.  
 
 ##Other Tools
-[Istanbul[(https://github.com/gotwarlost/istanbul) - code coverage
-[Enzyme](https://github.com/airbnb/enzyme) - assertion lib for React
-[Sinon](http://sinonjs.org/) - provides spies, stubs and mocks
-others - need to get from Haris' slides!
+[Istanbul[(https://github.com/gotwarlost/istanbul) - code coverage  
+[Enzyme](https://github.com/airbnb/enzyme) - assertion lib for React  
+[Sinon](http://sinonjs.org/) - provides spies, stubs and mocks  
+others - need to get from Haris' slides!  
 
 ##Where to start
-- recommends starting with [Jest](https://facebook.github.io/jest/)
-- maybe you switch to something else eventually, but super fast to get going with Jest
+- recommends starting with [Jest](https://facebook.github.io/jest/)  
+- maybe you switch to something else eventually, but super fast to get going with Jest  
 
+###Q&A
+How much time do you spend writing test?  
+About 50% of dev time is in the tests. Might write 100 lines of test code for a 5 line function.  
+
+I
