@@ -14,3 +14,7 @@ Remote: Hacking the World's Genius - Robyn Larsen
 How Artificial Intelligence Can Bring Hugs, Not the Apocalypse - Tommy Lewis
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/how-artificial-intelligence-can-bring-hugs) | [Info](http://fitc.ca/presentation/artificial-intelligence-can-bring-hugs-not-apocalypse/)
 
+From AMP to PWA: A Modern Web User Journey - Alberto Medina
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/from-amp-to-pwa) | [Info]
+(http://fitc.ca/presentation/amp-pwa-modern-web-user-journey/)
+
