@@ -20,3 +20,6 @@ From AMP to PWA: A Modern Web User Journey - Alberto Medina
 
 An Introduction to the World of Testing for Front-End Developers - Haris Mahmood
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/introduction-to-the-world-of-testing-for-front-end-developers) | [Info](http://fitc.ca/presentation/introduction-world-testing-front-end-developers/)
+
+The Accessibility of Keyboard Navigation - George Zamfir
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/accessibility-of-keyboard-navigation) | [Info](http://fitc.ca/presentation/accessibility-keyboard-navigation/)
