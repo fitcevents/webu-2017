@@ -11,5 +11,6 @@ A Tale of Four Properties - Chris Coyier
 Remote: Hacking the World's Genius - Robyn Larsen
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/remote-hacking-the-worlds-genius) | [Info](http://fitc.ca/presentation/remote-hacking-worlds-genius/)
 
-
+How Artificial Intelligence Can Bring Hugs, Not the Apocalypse - Tommy Lewis
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/how-artificial-intelligence-can-bring-hugs) | [Info](http://fitc.ca/presentation/artificial-intelligence-can-bring-hugs-not-apocalypse/)
 
