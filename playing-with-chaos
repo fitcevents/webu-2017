@@ -1,8 +1,11 @@
 Playing with Chaos - Fractals and Strange Attractors
 ---------------------------------------------
-*with Keith Peters*
+*with [Keith Peters](http://www.bit-101.com)*
 
-Kinds of math/art/fun code:
+[Twitter](https://twitter.com/bit101)  
+[Book](http://playingwithchaos.net)  
+
+##Kinds of math/art/fun code:
 ###Recreational Mathematics
 - puzzles, games, etc
 
@@ -34,4 +37,26 @@ Benoit Mandelbrot - Fractal Dimensions comparing coastlines to algorithms
 https://en.wikipedia.org/wiki/Sierpinski_triangle
 
 Barnsley Fern
+IFS Tree
+
+Diffuse Limited Aggregation - looks similar to coral growing
+
+The Mandelbrot Set
+Start with complex numbers or imaginary numbers
+Real + Imaginary Number
+4+5i
+
+#Strange Attractors
+They do unpredictable things in a predictable way.
+
+Edward Lorenz - while developing formulas for the properties of gases he uncovered the Lorenz Attractor
+Clifford Pickover
+
+#Fractals in Nature
+Many fractal forms exist in nature, from veins on a leaf to the circulatory system in your body.
+- river tributaries
+- mountain ranges or valleys
+- [Lichtenberg figures](https://en.wikipedia.org/wiki/Lichtenberg_figure)
+- [Romanesco broccoli](https://en.wikipedia.org/wiki/Romanesco_broccoli)
+
 
