@@ -41,3 +41,5 @@ Playing with Chaos - Keith Peters
 JavaScript In All The Creative Places - Stacey Mulcahy
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/javascript-in-all-the-creative-places) | [Info](http://fitc.ca/presentation/javascript-creative-places/)
 
+Git Things Done - Anne Thomas
+[Notes](https://github.com/fitcevents/webu-2017/tree/master) | [Info](http://fitc.ca/presentation/git-things-done/)
