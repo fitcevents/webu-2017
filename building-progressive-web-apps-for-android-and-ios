@@ -58,3 +58,5 @@ how many people are starting the app from the home screen of their desktop/phone
 
 In the meantime, you can use Cordova to and the [phonegap-plugin-pwa](https://github.com/phonegap/phonegap-plugin-pwa) to build your PWA's as iOS apps.
 If you need to add Service Worker support you can use this [phonegap-plugin-serviceworker](https://github.com/phonegap/phonegap-plugin-service-worker)
+
+See [Service Worker Cookbook](https://serviceworke.rs/) for examples of other PWA's
