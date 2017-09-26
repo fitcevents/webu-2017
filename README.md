@@ -31,3 +31,7 @@ Building Progressive Web Apps for Android and iOS - Simon MacDonald
 
 Product Strategy Playbook - Kurt Krumme
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/product-strategy-playbook) | [Info](http://fitc.ca/presentation/product-strategy-playbook-2/)
+
+From Doodles to Dashboards, Data Flows, and Docs - Una Kravets
+[Notes](https://github.com/fitcevents/webu-2017/tree/master) | [Info](http://fitc.ca/presentation/doodles-dashboards-data-flows-docs/)
+
