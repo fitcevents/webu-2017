@@ -1,0 +1,13 @@
+Building Progressive Web Apps for Android and iOS
+-----------------------------------------
+*with Simon MacDonald*
+
+#Core Tenents of a PWA
+
+Response designed - really should be doing this whether you are making a PWA or not  
+Connectivity independent - mobile devices have unreliable connections and the app should be built as such  
+App Like - app shell model  
+Safe - served over https to prevent snooping and ensure content hasn't been tampered with  
+Re-engageable - make re-engagement through features like push notifications  
+Installable - allow users to add apps to their home screen without the hassle of an app store  
+Linkable - easily share the app via url  
