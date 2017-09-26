@@ -38,3 +38,6 @@ From Doodles to Dashboards, Data Flows, and Docs - Una Kravets
 Playing with Chaos - Keith Peters
 [Notes](https://github.com/fitcevents/webu-2017/tree/master) | [Info](http://fitc.ca/presentation/playing-with-chaos/)
 
+JavaScript In All The Creative Places - Stacey Mulcahy
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/javascript-in-all-the-creative-places) | [Info](http://fitc.ca/presentation/javascript-creative-places/)
+
