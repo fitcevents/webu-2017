@@ -29,3 +29,5 @@ Neural Networks for the Rest of Us - Rob McDiarmid
 Building Progressive Web Apps for Android and iOS - Simon MacDonald
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/building-progressive-web-apps-for-android-and-ios) | [Info](http://fitc.ca/event/webu17/schedule/?show=24164)
 
+Product Strategy Playbook - Kurt Krumme
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/product-strategy-playbook) | [Info](http://fitc.ca/presentation/product-strategy-playbook-2/)
