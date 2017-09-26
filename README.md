@@ -35,3 +35,6 @@ Product Strategy Playbook - Kurt Krumme
 From Doodles to Dashboards, Data Flows, and Docs - Una Kravets
 [Notes](https://github.com/fitcevents/webu-2017/tree/master) | [Info](http://fitc.ca/presentation/doodles-dashboards-data-flows-docs/)
 
+Playing with Chaos - Keith Peters
+[Notes](https://github.com/fitcevents/webu-2017/tree/master) | [Info](http://fitc.ca/presentation/playing-with-chaos/)
+
