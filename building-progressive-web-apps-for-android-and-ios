@@ -11,3 +11,8 @@ Safe - served over https to prevent snooping and ensure content hasn't been tamp
 Re-engageable - make re-engagement through features like push notifications  
 Installable - allow users to add apps to their home screen without the hassle of an app store  
 Linkable - easily share the app via url  
+Discoverable - manifest.json and service worker registration allow search engines to find and understand your app
+
+#manifest.json
+- describes the core elements of the app
+- short_name sets the name the OS displays
