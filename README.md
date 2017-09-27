@@ -43,3 +43,6 @@ JavaScript In All The Creative Places - Stacey Mulcahy
 
 Git Things Done - Anne Thomas
 [Notes](https://github.com/fitcevents/webu-2017/tree/master) | [Info](http://fitc.ca/presentation/git-things-done/)
+
+Ten Pro Tips for Prototyping - Fred Beecher
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/ten-pro-tips-for-prototyping) | [Info](http://fitc.ca/presentation/ten-pro-tips-prototyping/)
