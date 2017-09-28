@@ -1,6 +1,6 @@
 Ten Pro Tips for Prototyping
 ------------------------------
-*with [Fred Beecher](http://twitter.com/fred_beecher)
+*with [Fred Beecher](http://twitter.com/fred_beecher)*
 
 Fred sorts his tips into two main categories: __tactical__ and __strategic__.
 You can find his slides on his Twitter profile (linked above).
