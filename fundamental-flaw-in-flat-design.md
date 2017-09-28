@@ -8,7 +8,7 @@
 * ##### Flat Design
     * An aesthetic style defined by the absence of glossy or 3D effects
     * Reaction against the trends of Skeuomorphic or realistic design (e.g. OG apple calculator, "original gallery" view on Finder w/ reflections and "flipping")
-    * "Being authentically digital is about going beyonf the rules and properties of the phyiscal world to create new and exciting possibilities ina  purely digital realm" -Steve Clayton, Chief Digital Storyteller @ Microsoft (2011)
+    * "Being authentically digital is about going beyond the rules and properties of the physical world to create new and exciting possibilities in a  purely digital realm" -Steve Clayton, Chief Digital Storyteller @ Microsoft (2011)
         * Don't need to be constrained to the boundaries of the physical world
     * Flat trends
         * Apple (slower than most to adopt)
@@ -34,7 +34,7 @@
         * Played back an eye-scan replay and demonstrated how much more confusing this made the traversal of the page
 * ##### Consequences for User Behaviour
     * More likely to __hover or click experimentally__ on-page
-    * More dependednt on __feedback__
+    * More dependent on __feedback__
     * More dependent on __guidance__
 * ##### User feedback -> "How do you know if something is clickable?"
     * "scrolling over it... it's hard when you think something's a link and it's not" -> experimental hovering
@@ -60,6 +60,6 @@
                     * Google's Material Design System employs some of this methodology (but doesn't always use shadows in useful ways)
             6. TEST!
 * ##### Key Takeaways:
-    * Flat design is geat, when done right
+    * Flat design is great, when done right
     * Weak signifiers make interaction much more difficult
     * Test, test test
