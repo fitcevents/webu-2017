@@ -49,3 +49,6 @@ Ten Pro Tips for Prototyping - Fred Beecher
 
 The Fundamental Flaw in Flat Design - Kate Meyer
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/fundamental-flaw-in-flat-design.md) | [Info](http://fitc.ca/presentation/fundamental-flaw-flat-design/)
+
+Smooth Animations for Web and Hybrid - Alexander Blom
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/smooth-animations-for-web-and-hybrid.md) | [Info](http://fitc.ca/presentation/smooth-animations-web-hybrid/)
