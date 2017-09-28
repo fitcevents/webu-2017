@@ -46,3 +46,6 @@ Git Things Done - Anne Thomas
 
 Ten Pro Tips for Prototyping - Fred Beecher
 [Notes](https://github.com/fitcevents/webu-2017/blob/master/ten-pro-tips-for-prototyping.md) | [Info](http://fitc.ca/presentation/ten-pro-tips-prototyping/)
+
+The Fundamental Flaw in Flat Design - Kate Meyer
+[Notes](https://github.com/fitcevents/webu-2017/blob/master/fundamental-flaw-in-flat-design.md) | [Info](http://fitc.ca/presentation/fundamental-flaw-flat-design/)
