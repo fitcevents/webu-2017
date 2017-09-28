@@ -1,5 +1,5 @@
 **Fundamental Flaw in Flat Design**
------------------------------------------------------------
+-----------------------------------
 *with [Kate Meyer](http://twitter.com/kate__meyer)*
 
 * ##### Intro
